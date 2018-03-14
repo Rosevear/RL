@@ -1,0 +1,3 @@
+Results for params EPSILON: 0.0, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -41475.08
+Standard Error: 392.807294334

@@ -1,0 +1,38 @@
+All results are for 200 episodes averaged over 50 runs, with the random seed for each run
+set to the run number.
+
+DEFAULT PARAMS PROVIDED BY ASSIGNMENT
+Results for params EPSILON: 0.0, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -41475.08
+Standard Error: 392.807294334
+
+PARAMS WITH NO STATISTICALLY SIGNIFICANT IMPROVEMENT
+Results for params EPSILON: 0.0, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 16, IHT_SIZE: 4096
+Mean Reward: -673828.46
+Standard Error: 226429.229075
+
+Results for params EPSILON: 0.01, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -41433.2
+Standard Error: 290.04293419
+
+Results for params EPSILON: 0.05, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -42547.1
+Standard Error: 360.443787969
+
+Results for params EPSILON: 0.075, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -43937.68
+Standard Error: 391.184021042
+
+Results for params EPSILON: 0.1, ALPHA: 0.1, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -44265.74
+Standard Error: 246.41138625
+
+PARAMS WITH STATISTICALLY SIGNIFICANT IMPROVEMENTS
+Results for params EPSILON: 0.01, ALPHA: 0.15, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -37341.04
+Standard Error: 314.840516751
+
+BEST STATISTICALLY SIGNIFICANT SET (THIS IS THE ONE THAT IS PLOTTED)
+Results for params EPSILON: 0.01, ALPHA: 0.2, LAMBDA: 0.9, NUM_TILINGS: 8, IHT_SIZE: 4096
+Mean Reward: -34216.3
+Standard Error: 323.750883381
